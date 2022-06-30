@@ -1,5 +1,5 @@
 # Flashlight
-Desafio DIO - Construindo um APP usando o sensor de motimento com React Native.
+Desafio DIO - Construindo um APP usando o sensor de movimento com React Native.
 
 ![Acesa](https://user-images.githubusercontent.com/102564431/176789030-47508c94-ff6f-4b6a-a4c5-a596e09cf6d3.png)
 
